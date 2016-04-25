@@ -1,0 +1,6 @@
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\bin\Release\ClientApp.exe
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\bin\Release\ClientApp.pdb
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\bin\Release\Scs.dll
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\bin\Release\Scs.xml
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Release\ClientApp.exe
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Release\ClientApp.pdb

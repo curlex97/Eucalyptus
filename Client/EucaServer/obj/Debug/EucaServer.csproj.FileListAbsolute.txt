@@ -1,0 +1,10 @@
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\bin\Debug\EucaServer.exe.config
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.Form1.resources
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.Properties.Resources.resources
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.csproj.GenerateResource.Cache
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\bin\Debug\EucaServer.exe
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\bin\Debug\EucaServer.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\bin\Debug\MySql.Data.dll
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.exe
+c:\users\arthur\documents\visual studio 2015\Projects\Eucalyptus\EucaServer\obj\Debug\EucaServer.pdb

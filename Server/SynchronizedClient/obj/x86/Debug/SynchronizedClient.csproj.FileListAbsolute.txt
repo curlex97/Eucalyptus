@@ -1,0 +1,7 @@
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\bin\Debug\SynchronizedClient.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\bin\Debug\SynchronizedClient.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\bin\Debug\Scs.dll
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\bin\Debug\Scs.xml
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\obj\x86\Debug\SynchronizedClient.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\SynchronizedClient\obj\x86\Debug\SynchronizedClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\ServerApp.exe
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\ServerApp.pdb
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\Scs.dll
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\Scs.xml
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\obj\x86\Release\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\obj\x86\Release\ServerApp.exe
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\obj\x86\Release\ServerApp.pdb
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\ServerApp.exe.config
+C:\Users\arthur\Desktop\TCPServClntCommRMIFrmwrk\Scs-Samples\SimpleMessaging\ServerApp\bin\Release\MySql.Data.dll

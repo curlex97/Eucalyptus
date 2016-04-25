@@ -1,0 +1,13 @@
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\Eucalyptus.exe.config
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\Eucalyptus.exe
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\Eucalyptus.pdb
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\NAudio.dll
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\NAudio.xml
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.csprojResolveAssemblyReference.cache
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.Form1.resources
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.Properties.Resources.resources
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.csproj.GenerateResource.Cache
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.exe
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Debug\Eucalyptus.pdb
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\Scs.dll
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Debug\Scs.xml

@@ -1,0 +1,14 @@
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\RequestReplyStyleClient.exe
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\RequestReplyStyleClient.pdb
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\Scs.dll
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\Scs.xml
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\RequestReplyStyleClient.exe
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\RequestReplyStyleClient.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\RequestReplyStyleClient.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\RequestReplyStyleClient.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\Scs.dll
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\bin\Debug\Scs.xml
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\RequestReplyStyleClient.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\RequestReplyStyleClient\obj\x86\Debug\RequestReplyStyleClient.pdb

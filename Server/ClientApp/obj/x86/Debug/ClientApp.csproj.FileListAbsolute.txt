@@ -1,0 +1,14 @@
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\ClientApp.exe
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\ClientApp.pdb
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\Scs.dll
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\Scs.xml
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ClientApp.exe
+D:\Halil\Özel\Makalelerim\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\ClientApp.exe
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\ClientApp.pdb
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\Scs.dll
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\bin\Debug\Scs.xml
+E:\Halil\Makalelerim\CodeProject.com\Scs\Projects\Scs-Samples\SimpleMessaging\ClientApp\obj\x86\Debug\ResolveAssemblyReference.cache

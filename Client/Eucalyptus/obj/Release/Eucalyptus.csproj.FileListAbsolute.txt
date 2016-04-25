@@ -1,0 +1,13 @@
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\Eucalyptus.exe.config
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\Eucalyptus.exe
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\Eucalyptus.pdb
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\NAudio.dll
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\NAudio.xml
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.csprojResolveAssemblyReference.cache
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.Form1.resources
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.Properties.Resources.resources
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.csproj.GenerateResource.Cache
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.exe
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\obj\Release\Eucalyptus.pdb
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\Scs.dll
+C:\Users\arthur\Documents\Visual Studio 2015\Projects\Eucalyptus\Eucalyptus\bin\Release\Scs.xml
